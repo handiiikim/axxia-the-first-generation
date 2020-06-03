@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"productVersion": "0.1",
+"dataUrl": "FINAL-ASSIA-YES-DONE.data.unityweb",
+"wasmCodeUrl": "FINAL-ASSIA-YES-DONE.wasm.code.unityweb",
+"wasmFrameworkUrl": "FINAL-ASSIA-YES-DONE.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#B1B1B1",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
